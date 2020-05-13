@@ -1,5 +1,5 @@
 #Автор https://github.com/vetprogs
-#По вопросам и предложениям:  vetprogs(сoбakа)etlgr.com
+#По вопросам и предложениям:  vetprogs@rambler.ru
 
 import time
 import requests
